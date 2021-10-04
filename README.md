@@ -17,7 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![React js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
 - ⚙️ &nbsp;
@@ -58,14 +58,14 @@
 
 <p>
   <div>
-    <a href="https://github.com/TechFring">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Techfring&theme=dracula&show_icons=true" />
+    <a href="https://github.com/Gabriel200395">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel200395&theme=dracula&show_icons=true" />
     </a>
   </div>
 
   <div>
-    <a href="https://github.com/TechFring">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techfring&theme=dracula&layout=compact" />
+    <a href="https://github.com/Gabriel200395">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel200395&theme=dracula&layout=compact" />
     </a>
   </div>
 </p>
@@ -75,10 +75,10 @@
 
 <p>
   <a href="https://www.linkedin.com/in/gabriel-souza-408451196/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo%20Miranda-blue?style=flat-square&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Souza-blue?style=flat-square&logo=linkedin">
    </a>
 
   <a href="mailto:eugabrielf@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-eugabrielf@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
