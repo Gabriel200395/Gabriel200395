@@ -1,24 +1,15 @@
-<h2>Bem-vindo! Eu sou Danilo.</h2>
+<h2>Bem-vindo! Eu sou Gabriel.</h2>
 
 
 <h3>👨🏻‍💻&nbsp;Sobre mim</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas.
+- 🎓 &nbsp; Formado em Gestão da tecnologia da Informação.
 - 💼 &nbsp; Trabalhando como Desenvolvedor Júnior na empresa GNSystems.
-- 📚 &nbsp; Pesquisador acadêmico na Universidade de Brasília.
 
 
 <h3>🛠&nbsp;Stack</h3>
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Pip](https://img.shields.io/badge/-Pip-333333?style=flat&logo=python&logoColor=FFD43B)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
-  ![Django REST](https://img.shields.io/badge/Django-REST-333333?style=flat&logo=django)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![Docker-compose](https://img.shields.io/badge/-Docker--compose-333333?style=flat&logo=docker)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -26,7 +17,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&lo)
   ![Material](https://img.shields.io/badge/-Material-333333?style=flat&logo=material-ui)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
