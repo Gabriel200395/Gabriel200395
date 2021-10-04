@@ -41,14 +41,14 @@
   </div>
 
   <div>
-    <a href="https://github.com/TechFring/ng-my-expenses">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-my-expenses&theme=dracula"/>
+    <a href="https://github.com/Gabriel200395/gs-stock-control">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=gs-stock-control&theme=dracula"/>
     </a>
   </div>
 
   <div>
-    <a href="https://github.com/TechFring/simple-online-store">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=simple-online-store&theme=dracula"/>
+    <a href="https://github.com/Gabriel200395/github-profiles">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=github-profiles&theme=dracula"/>
     </a>
   </div>
  </p>
