@@ -74,11 +74,11 @@
 <h3>🤝🏻&nbsp;Contato</h3>
 
 <p>
-  <a href="https://www.linkedin.com/in/danilo-miranda-877851135/">
+  <a href="https://www.linkedin.com/in/gabriel-souza-408451196/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Danilo%20Miranda-blue?style=flat-square&logo=linkedin">
    </a>
 
-  <a href="mailto:danilo030920@gmail.com">
+  <a href="mailto:eugabrielf@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-danilo030920@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 </p>
