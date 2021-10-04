@@ -35,8 +35,8 @@
 
 <p>
   <div>
-    <a href="https://github.com/TechFring/ng-tech-boggler">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TechFring&repo=ng-tech-boggler&theme=dracula"/>
+    <a href="https://github.com/Gabriel200395/Happy">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=Happy&theme=dracula"/>
     </a>
   </div>
 
