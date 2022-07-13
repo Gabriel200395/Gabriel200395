@@ -26,7 +26,6 @@
   ![React js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
-  ![React_Native](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - ⚙️ &nbsp;
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
