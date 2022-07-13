@@ -5,7 +5,13 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formado em Gestão da tecnologia da Informação.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Júnior na empresa GNSystems.
+- 💼 &nbsp; Desenvolvedor Fullstack Front-end e mobile.
+
+<h3>👨🏻‍💻&nbsp;Projetos atuais</h3>
+
+- 💼 &nbsp; Gerenciador de Edições (Desenvolvedor Frontend).
+- 💼 &nbsp; Accredito (Desenvolvedor mobile).
+
 
 
 <h3>🛠&nbsp;Stack</h3>
@@ -20,6 +26,7 @@
   ![React js](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Npm](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm)
+  ![React Native](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 - ⚙️ &nbsp;
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
