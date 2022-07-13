@@ -31,29 +31,6 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
-<h3>✨&nbsp;Principais projetos pessoais</h3>
-
-<p>
-  <div>
-    <a href="https://github.com/Gabriel200395/Happy">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=Happy&theme=dracula"/>
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/Gabriel200395/gs-stock-control">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=gs-stock-control&theme=dracula"/>
-    </a>
-  </div>
-
-  <div>
-    <a href="https://github.com/Gabriel200395/github-profiles">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriel200395&repo=github-profiles&theme=dracula"/>
-    </a>
-  </div>
- </p>
-
-
 <h3>🗠&nbsp;Estatísticas</h3>
 
 <p>
