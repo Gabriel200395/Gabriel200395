@@ -10,7 +10,6 @@
 <h3>👨🏻‍💻&nbsp;Projetos atuais</h3>
 
 - 💼 &nbsp; Gerenciador de Edições (Desenvolvedor Frontend).
-- 💼 &nbsp; Accredito (Desenvolvedor mobile).
 
 
 
