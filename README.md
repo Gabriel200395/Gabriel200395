@@ -7,12 +7,6 @@
 - 🎓 &nbsp; Formado em Gestão da tecnologia da Informação.
 - 💼 &nbsp; Desenvolvedor Fullstack Front-end e mobile.
 
-<h3>👨🏻‍💻&nbsp;Projetos atuais</h3>
-
-- 💼 &nbsp; Gerenciador de Edições (Desenvolvedor Frontend).
-
-
-
 <h3>🛠&nbsp;Stack</h3>
 
 - 🌐 &nbsp;
